@@ -21,7 +21,7 @@
 * 🔁 **Letter reveal** after 2 wrong guesses
 * 🧍‍♂️ **Single player mode** with achievements
 * 👥 **Two player local mode** with turn-based gameplay
-* 🌐 **Two player online mode** via `server.py` and `client.py`
+* 🌐 **Two player online mode** via `server.py` and `client.py`[NOTE: can plan only when on local network]
 * 📊 **Local leaderboard** (persistent and accumulative)
 
 ---
