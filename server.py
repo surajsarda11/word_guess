@@ -54,7 +54,7 @@ def display_progress():
 
 def handle_client(conn, addr):
     global turn, word, clue, progress, guessed_letters
-
+    
     try:
         name = conn.recv(1024).decode().strip()
         with lock:
